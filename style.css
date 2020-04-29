@@ -3,6 +3,8 @@ body {
   background: linear-gradient(#82ad9e, #99c5b5);
   font-size: 18px;
   font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1 {
